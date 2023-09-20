@@ -8,7 +8,7 @@ a github demo
 ```
 git push origin main
 ```
-在本地创建一个main分支拿到服务器的文件
+在本地创建一个main分支跟踪远程仓库的分支
 ```
 git checkout --track origin/main
 ```
