@@ -10,5 +10,5 @@ git push origin main
 ```
 在本地创建一个main分支跟踪远程仓库的分支
 ```
-git checkout --track origin/main
+git checkout  -b main --track origin/main
 ```
